@@ -124,7 +124,7 @@ class TargetSeeker(py_environment.PyEnvironment):
 train_py_env = TargetSeeker(image_option='show')
 train_env = tf_py_environment.TFPyEnvironment(train_py_env)
 
-num_iterations = 100000
+num_iterations = 30000
 initial_collect_steps = 100
 collect_steps_per_iteration = 1
 batch_size = 64
