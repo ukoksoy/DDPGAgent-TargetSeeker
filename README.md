@@ -3,7 +3,7 @@
 The provided code implements the DDPG reinforcement learning algorithm using the TensorFlow Agents (tf_agents) framework within a user-defined environment called TargetSeeker.
 
 
-# Target Seeker Environment
+- **Target Seeker Environment**
 
 The TargetSeeker environment is a custom environment designed for training an agent using the DDPG algorithm. It represents a 2D space where the agent's objective is to navigate towards a target point.
 
@@ -36,3 +36,12 @@ During training, the agent performs exploration by taking actions based on an ex
 The tf_agents library provides functionalities for managing the environment, replay buffer, and training steps. It offers pre-built components such as actor and critic networks, optimizers, and drivers to facilitate DDPG implementation.
 
 By iteratively updating the actor and critic networks, DDPG learns an optimal policy, enabling the agent to navigate and make decisions in environments with continuous action spaces.
+
+
+- **Output Images**
+
+<img src=>
+<img src=>
+<img src=>
+<img src=>
+
