@@ -24,7 +24,7 @@ Rendering: The environment provides the option to visualize the agent's path dur
 The TargetSeeker environment provides a simple and customizable 2D space where an agent can learn to navigate towards a target point by optimizing its actions based on the DDPG algorithm.
 
 
-# The tf_agents library
+**TF_AGENTS**
 
 DDPG (Deep Deterministic Policy Gradient) is a reinforcement learning algorithm that combines policy gradient and Q-learning methods to train agents in environments with continuous action spaces. It is implemented using the TensorFlow Agents (tf_agents) library.
 
