@@ -40,8 +40,10 @@ By iteratively updating the actor and critic networks, DDPG learns an optimal po
 
 - **Output Images**
 
-<img src=>
-<img src=>
-<img src=>
-<img src=>
+<img src=https://github.com/ukoksoy/TargetSeeker/blob/main/output_images/episode15.png>
+<img src=https://github.com/ukoksoy/TargetSeeker/blob/main/output_images/episode23.png>
+<img src=https://github.com/ukoksoy/TargetSeeker/blob/main/output_images/episode28.png>
+<img src=https://github.com/ukoksoy/TargetSeeker/blob/main/output_images/episode45.png>
+<img src=https://github.com/ukoksoy/TargetSeeker/blob/main/output_images/episode49.png>
+
 
